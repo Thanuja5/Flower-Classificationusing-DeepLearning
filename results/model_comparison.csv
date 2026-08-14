@@ -1,0 +1,4 @@
+Model,Validation Accuracy,Validation Accuracy (%)
+Baseline CNN,0.7035,70.35
+Improved CNN,0.6,60.0
+MobileNetV2,0.8395348787307739,83.95
